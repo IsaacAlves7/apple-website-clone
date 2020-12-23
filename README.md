@@ -1,5 +1,9 @@
 # Apple Website
+<div align="center">
+  
 [![Apple](https://img.shields.io/badge/-‍-white?style=for-the-badge&logo=Apple&logoColor=000000)](https://www.apple.com)
+
+</div>
 
 I created a clone of the Apple Website using HTML5, Sass, JavaScript, FontAwesome, MaterializeCSS, PHP and PostgreSQL.
 
