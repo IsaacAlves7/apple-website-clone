@@ -1,5 +1,5 @@
 # Apple Website
- I created a clone of the Apple Website using HTML5, CSS3, JavaScript, jQuery, Sass, Materialize CSS, PHP and MySQL. 
+ I created a clone of the Apple Website using HTML5, CSS3, JavaScript, jQuery, Sass, Materialize CSS, PHP and PostgreSQL. 
 
 ![](https://i.ytimg.com/vi/DEpF1nNz1l0/maxresdefault.jpg)
 ## Inspired by:
