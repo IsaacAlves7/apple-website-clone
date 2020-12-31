@@ -2,7 +2,7 @@
 I created a clone of the Apple Website using HTML5, Sass, JavaScript, FontAwesome, MaterializeCSS, PHP and PostgreSQL.
 
 ## Inspired by:
-[![Apple](https://img.shields.io/badge/-Apple-000?style=for-the-badge&logo=Apple&logoColor=white)](https://www.apple.com)
+[![Apple](https://img.shields.io/badge/-www.apple.com-000?style=for-the-badge&logo=Apple&logoColor=white)](https://www.apple.com)
 
 ![](https://i.ytimg.com/vi/DEpF1nNz1l0/maxresdefault.jpg)
 
