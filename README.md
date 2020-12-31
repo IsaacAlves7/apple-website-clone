@@ -1,10 +1,10 @@
 #  Apple Website Clone 🌐
 I created a clone of the Apple Website using HTML5, Sass, JavaScript, FontAwesome, MaterializeCSS, PHP and PostgreSQL.
 
+![](https://i.ytimg.com/vi/DEpF1nNz1l0/maxresdefault.jpg)
+
 ## Inspired by:
 [![Apple](https://img.shields.io/badge/-www.apple.com-000?style=for-the-badge&logo=Apple&logoColor=white)](https://www.apple.com)
-
-![](https://i.ytimg.com/vi/DEpF1nNz1l0/maxresdefault.jpg)
 
 <div align="center">
   
