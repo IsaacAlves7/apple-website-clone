@@ -5,4 +5,5 @@ I created a clone of the Apple Website using HTML5, Sass, JavaScript, FontAwesom
 
 ## Inspired by:
 [![Apple](https://img.shields.io/badge/-www.apple.com-000?style=for-the-badge&logo=Apple&logoColor=white)](https://www.apple.com)
-[![Heroku](https://img.shields.io/badge/-Website‍‍Clone‍‍Link-430098?style=for-the-badge&logo=Heroku&logoColor=white)]()[![CodePen](https://img.shields.io/badge/-CodePen‍‍Preview-000?style=for-the-badge&logo=CodePen&logoColor=white)](https://codepen.io/isaacalves7/)
+[![Heroku](https://img.shields.io/badge/-Website‍‍Clone‍‍Link-430098?style=for-the-badge&logo=Heroku&logoColor=white)]()
+[![CodePen](https://img.shields.io/badge/-CodePen‍‍Preview-000?style=for-the-badge&logo=CodePen&logoColor=white)](https://codepen.io/isaacalves7/)
