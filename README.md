@@ -5,4 +5,5 @@ I created a clone of the Apple Website using HTML5, Sass, JavaScript, FontAwesom
 
 ## Inspired by:
 [![Apple](https://img.shields.io/badge/-www.apple.com-000?style=for-the-badge&logo=Apple&logoColor=white)](https://www.apple.com)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=ffffff)](https://youtu.be/NwGC2FUM1ig)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=ffffff)](https://youtu.be/DEpF1nNz1l0)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=ffffff)](https://youtu.be/wLUJ9VNzZXo)
