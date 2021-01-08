@@ -9,5 +9,6 @@ I created a clone of the Apple Website using HTML5, Sass, JavaScript, FontAwesom
 [![Apple](https://img.shields.io/badge/-Apple-000?style=for-the-badge&logo=Apple&logoColor=white)](https://www.apple.com)
 [![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=YouTube&logoColor=ffffff)](https://youtu.be/DEpF1nNz1l0)
 [![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=YouTube&logoColor=ffffff)](https://youtu.be/wLUJ9VNzZXo)
+[![YouTube](https://img.shields.io/badge/-Hospedagem-000?style=for-the-badge&logo=Heroku&logoColor=ffffff)](https://youtu.be/wLUJ9VNzZXo)
 
 It's a responsive Apple website clone
