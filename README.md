@@ -1,4 +1,4 @@
-#  🖥️💻📱 Apple Website 📱💻🖥️ 
+#  🖥️💻📱 Apple Clone 📱💻🖥️ 
 <blockquote> <b>OLD!</b> It's the old Apple Website!</blockquote>
 
 I created a clone of the Apple Website using HTML5, Sass, JavaScript, FontAwesome, MaterializeCSS, PHP and PostgreSQL.
