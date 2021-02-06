@@ -1,5 +1,5 @@
 #  🖥️💻📱 Apple Clone 📱💻🖥️ 
-<blockquote> <b>UPDATED!</b> The system has been updated!</blockquote>
+<blockquote><b> UPDATED!</b> The system has been updated!</blockquote>
 
 I created a clone of the Apple Website using HTML5, Sass, JavaScript, FontAwesome, MaterializeCSS, PHP and PostgreSQL.
 
