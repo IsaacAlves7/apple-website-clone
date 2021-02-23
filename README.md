@@ -1,4 +1,4 @@
-#  🖥️💻📱 Apple Clone 📱💻🖥️ 
+# <img src="https://emojis.slackmojis.com/emojis/images/1450319442/24/appleinc.png?1450319442" height="30">🖥️💻📱 Apple Clone 📱💻🖥️<img src="https://emojis.slackmojis.com/emojis/images/1450319442/24/appleinc.png?1450319442" height="30">
 <blockquote><b> UPDATED!</b> The system has been updated!</blockquote>
 
 I created a clone of the Apple Website using HTML5, Sass, JavaScript, FontAwesome, MaterializeCSS, PHP and PostgreSQL.
